@@ -1,0 +1,10 @@
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\bin\Debug\netcoreapp2.0\catalinaTestApplication.deps.json
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\bin\Debug\netcoreapp2.0\catalinaTestApplication.runtimeconfig.json
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\bin\Debug\netcoreapp2.0\catalinaTestApplication.runtimeconfig.dev.json
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\bin\Debug\netcoreapp2.0\catalinaTestApplication.dll
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\bin\Debug\netcoreapp2.0\catalinaTestApplication.pdb
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\obj\Debug\netcoreapp2.0\catalinaTestApplication.csproj.CoreCompileInputs.cache
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\obj\Debug\netcoreapp2.0\catalinaTestApplication.AssemblyInfoInputs.cache
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\obj\Debug\netcoreapp2.0\catalinaTestApplication.AssemblyInfo.cs
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\obj\Debug\netcoreapp2.0\catalinaTestApplication.dll
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\obj\Debug\netcoreapp2.0\catalinaTestApplication.pdb

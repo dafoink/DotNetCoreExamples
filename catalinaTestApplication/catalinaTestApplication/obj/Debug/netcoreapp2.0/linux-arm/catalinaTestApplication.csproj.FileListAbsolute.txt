@@ -1,0 +1,13 @@
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\bin\Debug\netcoreapp2.0\linux-arm\libhostpolicy.so
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\bin\Debug\netcoreapp2.0\linux-arm\libhostfxr.so
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\bin\Debug\netcoreapp2.0\linux-arm\catalinaTestApplication
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\bin\Debug\netcoreapp2.0\linux-arm\catalinaTestApplication.deps.json
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\bin\Debug\netcoreapp2.0\linux-arm\catalinaTestApplication.runtimeconfig.json
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\bin\Debug\netcoreapp2.0\linux-arm\catalinaTestApplication.runtimeconfig.dev.json
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\bin\Debug\netcoreapp2.0\linux-arm\catalinaTestApplication.dll
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\bin\Debug\netcoreapp2.0\linux-arm\catalinaTestApplication.pdb
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\obj\Debug\netcoreapp2.0\linux-arm\catalinaTestApplication.csproj.CoreCompileInputs.cache
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\obj\Debug\netcoreapp2.0\linux-arm\catalinaTestApplication.AssemblyInfoInputs.cache
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\obj\Debug\netcoreapp2.0\linux-arm\catalinaTestApplication.AssemblyInfo.cs
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\obj\Debug\netcoreapp2.0\linux-arm\catalinaTestApplication.dll
+E:\Source\dotNetCore\catalinaTestApplication\catalinaTestApplication\obj\Debug\netcoreapp2.0\linux-arm\catalinaTestApplication.pdb
